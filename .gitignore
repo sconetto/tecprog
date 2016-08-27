@@ -1,6 +1,6 @@
 # Folders to ignore
-./old-qualcurso/
-./exercicoTecProg_1/
+old-qualcurso/*
+exercicoTecProg_1/*
 
 # Java classes
 *.class
